@@ -1,0 +1,24 @@
+.header {
+  justify-content: center;
+
+  display: flex;
+}
+.container {
+  background-color: blueviolet;
+  height: 700px;
+  justify-content: center;
+  width: 500px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.h1 {
+  justify-content: center;
+}
+.cell {
+  justify-content: center;
+  background-color: darkcyan;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+}
